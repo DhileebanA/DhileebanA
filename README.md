@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DhileebanA
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Fullstack
+- 👀 I’m interested in Coding...
+- 🌱 I’m currently Working on Organization Management System Tool
 - 💞️ I’m looking to collaborate 
-- 📫 Reach me through Linked in https://www.linkedin.com/in/dhileeban-a-0312b21a2/ 
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/a-dhileeban/) 
 
 <!---
 DhileebanA/DhileebanA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
